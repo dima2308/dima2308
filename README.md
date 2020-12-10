@@ -15,7 +15,7 @@
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dmitrybatarev/">
+<a href="https://www.linkedin.com/in/dmitrybatarev">
   <img align="left" alt="Dmitry's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/dmitry_2308">
