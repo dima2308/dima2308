@@ -2,8 +2,8 @@
 
 <p>Welcome to my page! </br> I'm a QA Engineer from <img src="https://www.pngarts.com/files/4/Russia-Flag-PNG-Image.png" width="13"/> <b>Moscow, Russia</b>.
 <p>
-<p>I develop automation tests using (UI + API).</p>
-<p>My spare time I do different projects using JavaScript and Python and study technologies and frameworks.</p>
+<p>I develop automation tests using (UI + API). <br>
+My spare time I do different projects using JavaScript and Python and study technologies and frameworks.</p>
 
 ### Languages and Tools:
 
